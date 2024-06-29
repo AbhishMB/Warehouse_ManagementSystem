@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-jomolhari: Jomolhari;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-whitesmoke: #edf4f2;
+  --color-white: #fff;
+  --color-lightgreen: #c8f58f;
+  --color-gray-100: #fffefe;
+  --color-slategray: #417690;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+}
